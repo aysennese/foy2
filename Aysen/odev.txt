@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>userId</th>
+    <th>password</th>
+    
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1234</td>
+   
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>2234</td>
+   
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>3234</td>
+   
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>4234</td>
+   
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>5234</td>
+   
+  </tr>
+ 
+
+ 
+</table>
+<table style="width:100%">
+  <tr>
+    <th>urunId</th>
+    <th>urunAd</th>
+    <th>urunAciklama</th>
+    <th>fiyat</th>
+    
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>kazak</td>
+    <td>giyim</td>
+    <td>30</td>  
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>gömlek</td>
+    <td>giyim</td>
+    <td>20</td> 
+   
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>etek</td>
+    <td>giyim</td>
+    <td>20</td> 
+   
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>pantolon</td>
+    <td>giyim</td>
+    <td>50</td> 
+   
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>ceket</td>
+    <td>giyim</td>
+    <td>100</td> 
+   
+  </tr>
+  
+</table>
+<table style="width:100%">
+  <tr>
+    <th>urunId</th>
+    <th>userId</th>
+    <th>satisTarih</th>
+    <th>satis_Adet</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>11/12/2011</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>3</td>
+    <td>21/12/2016</td>
+    <td>6</td>
+   
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>2</td>
+    <td>02/06/2015</td>
+    <td>4</td>
+   
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>5</td>
+    <td>09/10/2016</td>
+    <td>5</td>
+   
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>4</td>
+    <td>11/05/2014</td>
+    <td>3</td>
+   
+  </tr>
+
+</body>
+</html>
